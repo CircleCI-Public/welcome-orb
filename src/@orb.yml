@@ -1,4 +1,6 @@
+description: |
+  Help new users get started building their projects with CircleCI.
+display:
+  source_url: https://github.com/circleci-public/welcome-orb
 version: 2.1
 
-description: >
-  Help new users get started building their projects with CircleCI.
